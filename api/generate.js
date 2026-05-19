@@ -70,7 +70,6 @@ Respond ONLY in valid JSON (no markdown, no backticks, nothing else):
   "para1": "A paragraph (1-2 sentence) about their inner nature — what kind of person these answers reveal, what they are fundamentally drawn to and why, interpreted not echoed.",
   "para2": "A paragraph (1-2 sentence) about the meaningful intersection the AI sees — how their love, skill, and concern for the world form a coherent thread that points somewhere specific.",
   "para3": "A paragraph (1-2 sentence) about what a realistic, honest path forward might look like — grounded in their paid work answer and their moment of feeling alive, without being prescriptive.",
-  "quote": "Choose the single most relevant quote from García and Miralles' Ikigai book that resonates with this specific person's reflection. Use only real quotes from the book."
 }`;
 
     // Call Groq API
