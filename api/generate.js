@@ -57,6 +57,10 @@ Instructions for your response:
 - Avoid cinematic exaggeration and inspirational language.
 - Prefer concrete psychological observations over abstract ideals.
 - Avoid describing the user as someone destined to change the world.
+- Write like a thoughtful human observer, not a therapist or philosopher.
+- Avoid formal transitions like "this convergence suggests", "these answers reveal", or "this points to".
+- Use slightly imperfect natural phrasing occasionally.
+- Prefer simple words over elegant ones.
 Respond ONLY in valid JSON (no markdown, no backticks, nothing else):
 {
   "core": "One sentence (12-18 words, first person 'I') that names their Ikigai at the precise intersection of all five answers. Make it poetic but earned and specific to them.",
