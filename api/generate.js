@@ -61,6 +61,9 @@ Instructions for your response:
 - Avoid formal transitions like "this convergence suggests", "these answers reveal", or "this points to".
 - Use slightly imperfect natural phrasing occasionally.
 - Prefer simple words over elegant ones.
+- Do not assume the person should turn their traits into a career.
+- Avoid suggesting counseling, mentoring, coaching, or healing roles unless explicitly mentioned.
+- Stay descriptive more than prescriptive.
 Respond ONLY in valid JSON (no markdown, no backticks, nothing else):
 {
   "core": "One sentence (12-18 words, first person 'I') that names their Ikigai at the precise intersection of all five answers. Make it poetic but earned and specific to them.",
