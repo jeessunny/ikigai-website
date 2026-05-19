@@ -54,6 +54,9 @@ Instructions for your response:
 - Write with restraint and precision.
 - Keep paragraphs concise.
 - Sound human, not inspirational.
+- Avoid cinematic exaggeration and inspirational language.
+- Prefer concrete psychological observations over abstract ideals.
+- Avoid describing the user as someone destined to change the world.
 Respond ONLY in valid JSON (no markdown, no backticks, nothing else):
 {
   "core": "One sentence (12-18 words, first person 'I') that names their Ikigai at the precise intersection of all five answers. Make it poetic but earned and specific to them.",
