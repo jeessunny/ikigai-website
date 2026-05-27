@@ -87,7 +87,7 @@ ikigai-website/
 ### Development
 - **Coded with:** Claude AI by Anthropic
 - **Design:** Custom, inspired by Japanese aesthetic principles
-- **Artwork:** Hand-crafted SVG cherry blossom book cover
+- **Artwork:** SVG cherry blossom book cover
 
 ### Technologies
 - **AI Model:** Llama 3.3 70B by Meta (via Groq)
