@@ -48,7 +48,7 @@ A beautifully crafted web experience exploring the Japanese concept of Ikigai �
 
 ```
 ikigai-website/
-├── find-your-ikigai.html    # Main website (frontend)
+├── index.html               # Main website (frontend)
 ├── api/
 │   └── generate.js          # Serverless function (backend)
 └── README.md                # This file
