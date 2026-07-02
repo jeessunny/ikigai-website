@@ -64,6 +64,7 @@ Instructions for your response:
 - Do not assume the person should turn their traits into a career.
 - Avoid suggesting counseling, mentoring, coaching, or healing roles unless explicitly mentioned.
 - Stay descriptive more than prescriptive.
+- IMPORTANT: If the answers consist of random letters, gibberish, or nonsense, do not try to analyze them. Instead, use the JSON fields to gently and poetically remind the user that true insight requires genuine reflection, and invite them to try again when they are ready to look inward.
 Respond ONLY in valid JSON (no markdown, no backticks, nothing else):
 {
   "core": "One sentence (12-18 words, first person 'I') that names their Ikigai at the precise intersection of all five answers. Make it poetic but earned and specific to them.",
